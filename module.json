@@ -1,0 +1,51 @@
+{
+  "id": "il-richiamo-di-cthulhu-compendio-antro-del-gdr",
+  "title": "Il Richiamo di Cthulhu Compendio (Antro del GDR)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "CoC7",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Modulo tradotto per il Il Richiamo di Cthulhu Compendio a cura di Elizar dell'Antro del GDR",
+  "authors": [
+    {
+      "name": "Elizar",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "professioni",
+      "label": "Professioni",
+      "path": "packs/professioni",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "CoC7",
+      "flags": {}
+    },
+    {
+      "name": "armi",
+      "label": "Armi",
+      "path": "packs/armi",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "CoC7",
+      "flags": {}
+    }
+  ]
+}
