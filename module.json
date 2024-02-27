@@ -18,6 +18,13 @@
   "description": "Modulo tradotto per il Il Richiamo di Cthulhu Compendio a cura di Elizar dell'Antro del GDR",
   "authors": [
     {
+      "name": "Arkangel",
+      "email": "lucio.angeli@gmail.com",
+      "url": "https://www.twitch.tv/arka_stream",
+      "discord": "arkangel#9056",
+      "flags": {}
+    },
+    {
       "name": "Elizar",
       "flags": {}
     }
@@ -47,5 +54,11 @@
       "system": "CoC7",
       "flags": {}
     }
-  ]
+  ],
+  "manifest": "https://php.arkadnd.site/fvttmoduli/ark-comp/module.json",
+  "url": "https://github.com/arkangel85/compendio-chtulhu-elizar",
+  "download": "https://php.arkadnd.site/fvttmoduli/ark-comp/arkangel-compendium.zip",
+  "readme": "https://github.com/arkangel85/compendio-chtulhu-elizar/blob/main/README.md",
+  "bugs": "https://github.com/arkangel85/compendio-chtulhu-elizar/issues",
+  "changelog": "https://github.com/arkangel85/compendio-chtulhu-elizar"
 }
